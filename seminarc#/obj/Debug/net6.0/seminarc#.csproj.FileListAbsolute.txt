@@ -1,0 +1,15 @@
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\bin\Debug\net6.0\seminarc#.exe
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\bin\Debug\net6.0\seminarc#.deps.json
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\bin\Debug\net6.0\seminarc#.runtimeconfig.json
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\bin\Debug\net6.0\seminarc#.dll
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\bin\Debug\net6.0\seminarc#.pdb
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\seminarc#.csproj.AssemblyReference.cache
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\seminarc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\seminarc#.AssemblyInfoInputs.cache
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\seminarc#.AssemblyInfo.cs
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\seminarc#.csproj.CoreCompileInputs.cache
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\seminarc#.dll
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\refint\seminarc#.dll
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\seminarc#.pdb
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\seminarc#.genruntimeconfig.cache
+C:\Users\Larson\Desktop\introduction_programming_language2\seminarc#\obj\Debug\net6.0\ref\seminarc#.dll
